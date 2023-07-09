@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Slack';
+    src: url('/fonts/slack/slack-light.woff2') format('woff2'),
+    url('/fonts/slack/slack-light.woff') format('woff'),
+    url('/fonts/slack/slack-light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Slack';
+    src: url('/fonts/slack/slack-normal.woff2') format('woff2'),
+    url('/fonts/slack/slack-normal.woff') format('woff'),
+    url('/fonts/slack/slack-normal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('/fonts/proxima/proximanova-regular.woff2') format('woff2'),
+    url('/fonts/proxima/proximanova-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('/fonts/proxima/proximanova-light.woff2') format('woff2'),
+    url('/fonts/proxima/proximanova-light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
