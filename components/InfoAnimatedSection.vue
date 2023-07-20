@@ -19,7 +19,7 @@
                     </div>
                 </div>
             </div>
-            <img src="~/assets/images/elephant.jpg" alt="" class="mt-6 w-full xl:h-screen xl:object-cover xl:m-0 xl:w-1/2 transition-all duration-500 delay-100">
+            <img src="~/assets/images/elephant.jpg" alt="" class="mt-6 w-full xl:h-screen xl:object-cover xl:object-top xl:m-0 xl:w-1/2 transition-all duration-500 delay-100">
         </div>
     </div>
 </template>

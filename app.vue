@@ -14,8 +14,11 @@
     <HotelsSection />
     <GridServiceListSection />
     <RoomsSection />
+    <LodgeGallerySection />
+    <VideoSection />
 
     <InfoAnimatedSection />
+    <InfoAnimatedSection direction="rtl" />
     <SliderSection direction="ltr" />
     <SliderSection direction="rtl" />
     <TextInCenterSection />
